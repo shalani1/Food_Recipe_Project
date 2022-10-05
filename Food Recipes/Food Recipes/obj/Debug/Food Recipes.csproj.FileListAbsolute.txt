@@ -1,0 +1,192 @@
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Form1.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Form1.resources
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+D:\SHALANI\Practicles\C# Practicles\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Form1.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.CategoryList.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+F:\Semester-3\Practicals\Visual Programming-ll\1INCLASS PRACTICLES\1PROJECT\New folder\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category1.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Form1.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.FormCategory.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+C:\Users\ctc\Desktop\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Form1.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.FormCategory.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AddCategory.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategory.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\bin\Debug\itextsharp.dll
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (4)\New folder (11)\food\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe.config
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\bin\Debug\itextsharp.dll
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AddCategory.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategory.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Main.resources
+C:\Users\ctc\Desktop\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeCategory.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Main.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeCategory.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategoryAdd.resources
+E:\UOVT\IT Dgree\Year 2\Semester 3rd\Visual Programming II\Assignment\Group Assignment\Recipe\Shalani Akka\New folder (9)\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+D:\New folder\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+D:\New folder\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategoryAdd.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Main.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeCategory.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+D:\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategoryAdd.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Main.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeCategory.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+F:\MUST SOLVE THIS FOLDER\New folder (4)\recipe backups\New folder\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\bin\Debug\Food Recipes.exe
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\bin\Debug\Food Recipes.pdb
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csprojResolveAssemblyReference.cache
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminAddRecipe.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminCategoryAdd.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminDashboard.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeList.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AdminRecipeUpdateDelete.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.AllRecipeList.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Category.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Favourites.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Main.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeCategory.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Home.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Login.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Properties.Resources.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.Recipe.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeDetails.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
+F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache

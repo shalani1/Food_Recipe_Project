@@ -63,7 +63,6 @@ namespace Food_Recipes
             details.txtId.Text = id;
             details.MdiParent = this.ParentForm;
             details.Dock = DockStyle.Fill;
-
             details.Show();
         }
 
@@ -83,7 +82,6 @@ namespace Food_Recipes
                     recipeId.Add(Convert.ToString(dr["RecipeID"]));
                     recipeName.Add(Convert.ToString(dr["RecipeName"]));
                     description.Add(Convert.ToString(dr["Descriptions"]));
-
                     duration.Add(Convert.ToString(dr["Duration"]));
                     byte[] imageBytes = (byte[])dr[3];
                     MemoryStream ms = new MemoryStream(imageBytes);
@@ -120,7 +118,6 @@ namespace Food_Recipes
                     txtNoResults.Visible = true;
                 }
                 recipe1.Height = recipe1.Height * recipeCount;
-
                 recipe1.RecipesCount = recipeCount;
                 recipe1.RecipesName = recipeName;
                 recipe1.Img = Imgs;
@@ -143,7 +140,6 @@ namespace Food_Recipes
                 {
                     id = dr.GetValue(0).ToString();
                     name = dr.GetValue(1).ToString();
-
                     reci = dr.GetValue(4).ToString();
                     serve = dr.GetValue(2).ToString();
                     facts = dr.GetValue(3).ToString();

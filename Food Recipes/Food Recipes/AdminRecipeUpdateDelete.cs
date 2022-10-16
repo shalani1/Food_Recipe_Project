@@ -37,7 +37,6 @@ namespace Food_Recipes
             {
                 MessageBox.Show("Please try again!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            //// cmbCategory.Text = adminre
             lblRecipeId.Visible = false;
             txtRecipeID.Visible = false;
         }
@@ -56,18 +55,14 @@ namespace Food_Recipes
             {
                 SqlDataReader dr = da.SelectCommand.ExecuteReader();
 
-                //da.Fill(ds);
-
                 if (dr.Read())
                 {
-                    //txtRecipeID.Text = dr.GetInt32(0).ToString();
                     txtRecipeName.Text = dr.GetValue(0).ToString();
                     richtxtRecipe.Text = dr.GetValue(1).ToString();
                     txtDuration.Text = dr.GetValue(2).ToString();
 
                     byte[] imageBytes = (byte[])dr[3];
                     MemoryStream ms = new MemoryStream(imageBytes);
-                    //ms.Seek(0, SeekOrigin.Begin);
                     Image imgs = System.Drawing.Image.FromStream(ms);
                     pbUpdate.Image = imgs;
 
@@ -126,7 +121,6 @@ namespace Food_Recipes
             cs.Open();
             try
             {
-
                 SqlDataReader dr = da.SelectCommand.ExecuteReader();
                 while (dr.Read())
                 {
@@ -157,10 +151,7 @@ namespace Food_Recipes
                 MemoryStream ms = new MemoryStream();
                 pbUpdate.Image.Save(ms, pbUpdate.Image.RawFormat);
                 byte[] imgUpdate = ms.ToArray();
-
-                //SqlDataAdapter da = new SqlDataAdapter();
                 da.UpdateCommand = new SqlCommand("UPDATE Recipes SET RecipeName=@RecipeName, Recipe=@Recipe, Duration=@Duration, Image=@Image, Descriptions=@Descriptions, Servings=@Servings, Facts=@Facts, RecipeCategoryID=@RecipeCategoryID, Bookmarks=0 WHERE RecipeID= " + CAT, cs);
-                //da.UpdateCommand.Parameters.Add("@RecipeID", SqlDbType.Int).Value = txtRecipeID.Text.Trim();
                 da.UpdateCommand.Parameters.Add("@RecipeName", SqlDbType.NVarChar).Value = txtRecipeName.Text.Trim();
                 da.UpdateCommand.Parameters.Add("@Recipe", SqlDbType.NVarChar).Value = richtxtRecipe.Text.Trim();
                 da.UpdateCommand.Parameters.Add("@Duration", SqlDbType.NVarChar).Value = txtDuration.Text.Trim();

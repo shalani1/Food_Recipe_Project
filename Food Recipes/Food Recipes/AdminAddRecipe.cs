@@ -19,8 +19,7 @@ namespace Food_Recipes
 
         string imagelocation;
         bool chekRecipeName;
-        int catId;
-        
+        int catId;      
 
         public AdminAddRecipe()
         {
@@ -52,19 +51,14 @@ namespace Food_Recipes
 
                     if (imagelocation == null)//validate empty picture box
                     {
-                        //lblmsgImage.Text = "* Please choose image! ";
                         MessageBox.Show("Please attach image");
                     }
                     else
                     {
                         FileStream stream = new FileStream(imagelocation, FileMode.Open, FileAccess.Read);
-
                         BinaryReader br = new BinaryReader(stream);
                         images = br.ReadBytes((int)stream.Length);
-
-                        //SqlDataAdapter da = new SqlDataAdapter();
                         da.InsertCommand = new SqlCommand("INSERT INTO Recipes(RecipeName, Recipe, Duration, Image, Descriptions, Servings, Facts, RecipeCategoryID, Bookmarks) Values (@RecipeName, @Recipe, @Duration, @Image, @Descriptions, @Servings, @Facts, @RecipeCategoryID, 0)", cs);
-                        //da.InsertCommand.Parameters.Add("@RecipeID", SqlDbType.Int).Value = txtRecipeID.Text.Trim();
                         da.InsertCommand.Parameters.Add("@RecipeName", SqlDbType.NVarChar).Value = txtRecipeName.Text.Trim();
                         da.InsertCommand.Parameters.Add("@Recipe", SqlDbType.NVarChar).Value = richtxtRecipe.Text.Trim();
                         da.InsertCommand.Parameters.Add("@Duration", SqlDbType.NVarChar).Value = txtDuration.Text.Trim();
@@ -133,23 +127,7 @@ namespace Food_Recipes
                     richtxtRecipe.Rtf = dataObject.GetData(DataFormats.Rtf).ToString();
                     application.Quit(ref missing, ref missing, ref missing);
                 }
-            }
-
-            /*----------
-            Stream myStream;
-            OpenFileDialog openFiles = new OpenFileDialog();
-            openFiles.Filter = "Text Files (*TEXT)|*txt";
-
-            if (openFiles.ShowDialog() == System.Windows.Forms.DialogResult.OK)
-            {
-                if ((myStream = openFiles.OpenFile()) != null)
-                {
-                    string fileName = openFiles.FileName; //Copping the file path to string
-                    string fileText = File.ReadAllText(fileName);
-                    richtxtRecipe.Text = fileText;
-                }
-            }
-            ------------*/
+            }     
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -187,29 +165,19 @@ namespace Food_Recipes
             {
                 cs.Close();
             }
-
             cmbCategory.DropDownStyle = ComboBoxStyle.DropDownList;
-            //cmbCategory.SelectedIndex = 0;
         }
 
         //Get selected category id
         private void GetCategoryId()
         {
-            // if(cmbCategory.SelectedIndex == 0)
-            // {
-            //lblCatCheck.text = "Please select category";
-            // MessageBox.Show("Please select category!", "Warning");
-            // }
             string categoryName = cmbCategory.SelectedItem.ToString();
-
             da.SelectCommand = new SqlCommand("SELECT RecipeCategoryID FROM RecipeCategories WHERE RecipeCategoryName = @categoryname", cs);
             da.SelectCommand.Parameters.Add("@categoryname", SqlDbType.NVarChar).Value = cmbCategory.SelectedItem.ToString();
-
             cs.Open();
             try
             {
                 da.SelectCommand.ExecuteNonQuery();
-
                 SqlDataReader dr = da.SelectCommand.ExecuteReader();
                 while (dr.Read())
                 {

@@ -39,8 +39,6 @@ namespace Food_Recipes
             RecipeCount();
         }
 
-
-
         private void recipe2_Load(object sender, EventArgs e)
         {
             RecipeCount();
@@ -50,7 +48,6 @@ namespace Food_Recipes
                 txtNoResults.Visible = true;
             }
             recipe2.Height = recipe2.Height * recipeCount;
-
             recipe2.RecipesCount = recipeCount;
             recipe2.RecipesName = recipeName;
             recipe2.Img = Imgs;

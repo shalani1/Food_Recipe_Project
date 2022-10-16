@@ -15,8 +15,6 @@ namespace Food_Recipes
     public partial class SearchedRecipes : Form
     {
         SqlConnection cs = new SqlConnection("Data Source=SHALANI\\SQLEXPRESS;Initial Catalog=FoodRecipes;User ID=sa;Password=Sql#Server");
-      
-       
         SqlDataAdapter da = new SqlDataAdapter();
 
         string search;
@@ -38,9 +36,6 @@ namespace Food_Recipes
         public SearchedRecipes()
         {
             InitializeComponent();
-           // SQLCONNECTION cs = new SQLCONNECTION();
-            //cs.Connection();
-
         }
 
         public SearchedRecipes(string word)

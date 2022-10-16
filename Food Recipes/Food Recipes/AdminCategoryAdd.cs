@@ -35,7 +35,6 @@ namespace Food_Recipes
             if (txtCatName.Text.Trim() == "")
             {
                 MessageBox.Show("Please fill all the field!");
-                //lblmsgCatName.Text = "* Please fill category name!";
             }
             else
             {
@@ -53,7 +52,6 @@ namespace Food_Recipes
                     if (imageLocation == "")//validate empty picture box
                     {
                         MessageBox.Show("Please choose image!");
-                        // lblmsgImage.Text = "* Please choose image! ";
                     }
                     else
                     {
@@ -61,10 +59,6 @@ namespace Food_Recipes
 
                         BinaryReader br = new BinaryReader(stream);
                         images = br.ReadBytes((int)stream.Length);
-
-
-                        //lblmsgCatName.Visible = false;
-                        //lblmsgCatName.Visible = false;
                         da.InsertCommand = new SqlCommand("INSERT INTO RecipeCategories(RecipeCategoryName, Image) VALUES (@catname, @images)", cs);
                         da.InsertCommand.Parameters.Add("@catname", SqlDbType.NVarChar).Value = txtCatName.Text.Trim();
                         da.InsertCommand.Parameters.Add("@images", SqlDbType.Image).Value = images;
@@ -74,7 +68,6 @@ namespace Food_Recipes
                         {
                             da.InsertCommand.ExecuteNonQuery();
                             MessageBox.Show("Successfully inserted!!!");
-                            // FieldClear();
                             ClearField();
                             AutoRefreshGridView();
                         }
@@ -116,14 +109,9 @@ namespace Food_Recipes
             dgvCategory.DataSource = dt;
             dataGrideViewRowCount();
             this.dgvCategory.DefaultCellStyle.Font = new Font(" Microsoft JhengHei", 11);
-        //  this.dgvCategory.DefaultCellStyle.hea
-        //this.dgvCategory.DefaultCellStyle.SelectionBackColor = Color.DarkOrange;
 
-
-
-        //make row  height 
-        dgvCategory.RowTemplate.Height = 150;
-            //dgvCategory.AllowUserToAddRows = false;
+            //make row  height 
+            dgvCategory.RowTemplate.Height = 150;
 
             //load data to the table
             dgvCategory.DataSource = dt;
@@ -135,9 +123,6 @@ namespace Food_Recipes
 
             //auto make size of column 
             dgvCategory.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-          
-          
-
         }
 
         private void txtSearch_TextChanged(object sender, EventArgs e)
@@ -145,7 +130,7 @@ namespace Food_Recipes
             //search category from table
             string searchQuery = "";
             if (txtSearch.Text != string.Empty)
-                searchQuery += "[RecipeCategoryName] like '%" + txtSearch.Text.Trim() + "%' and ";
+            searchQuery += "[RecipeCategoryName] like '%" + txtSearch.Text.Trim() + "%' and ";
             searchQuery += "1 = 1";
             (dgvCategory.DataSource as DataTable).DefaultView.RowFilter = searchQuery;
 
@@ -159,17 +144,12 @@ namespace Food_Recipes
             if (txtCatName.Text.Trim() == "")
             {
                 MessageBox.Show("Please fill all the field!");
-                //lblmsgCatName.Text = "* Please fill category name!";
             }
             else
-            {
-                    
+            {     
                     MemoryStream ms = new MemoryStream();
                     pbCatImage.Image.Save(ms, pbCatImage.Image.RawFormat);
                     byte[] imgUpdate = ms.ToArray();
-
-                    //lblmsgCatName.Visible = false;
-                    //lblmsgCatName.Visible = false;
                     da.UpdateCommand = new SqlCommand("UPDATE RecipeCategories SET RecipeCategoryName =@catname, Image = @images WHERE RecipeCategoryID = '" + txtCatId.Text + "'", cs);
                     da.UpdateCommand.Parameters.Add("@catname", SqlDbType.NVarChar).Value = txtCatName.Text.Trim();
                     da.UpdateCommand.Parameters.Add("@images", SqlDbType.Image).Value = imgUpdate;
@@ -179,7 +159,6 @@ namespace Food_Recipes
                 {
                     da.UpdateCommand.ExecuteNonQuery();
                     MessageBox.Show("Successfully Udated!!!");
-                    // FieldClear();
                     ClearField();
                     AutoRefreshGridView();
                 }
@@ -191,7 +170,7 @@ namespace Food_Recipes
                 {
                     cs.Close();
                 }
-                }
+              }
         }
 
         private void dgvCategory_Click(object sender, EventArgs e)
@@ -208,7 +187,6 @@ namespace Food_Recipes
         {
             AutoRefreshGridView();
             this.dgvCategory.Columns[0].Visible = false;
-            //dgvCategory.HeaderStyle.BackColor = Color.DeepSkyBlue;
         }
 
         public void ClearField()

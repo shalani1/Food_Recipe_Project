@@ -190,3 +190,5 @@ F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\F
 F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.RecipeList.resources
 F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food_Recipes.SearchedRecipes.resources
 F:\Semester-5\Projects\Food Recipe Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.csproj.GenerateResource.Cache
+F:\Git Projects\Food_Recipe_Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.exe
+F:\Git Projects\Food_Recipe_Project\Food Recipes\Food Recipes\obj\Debug\Food Recipes.pdb

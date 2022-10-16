@@ -27,16 +27,10 @@ namespace Food_Recipes
 
         private void btnRecipe_Click(object sender, EventArgs e)
         {
-
             AdminRecipeList recipeList = new AdminRecipeList();
             recipeList.MdiParent = this.ParentForm;
             recipeList.Dock = DockStyle.Fill;
             recipeList.Show();
-
-            /*Admin admin = new Admin();
-            admin.MdiParent = this.ParentForm;
-            admin.Dock = DockStyle.Fill;
-            admin.Show();*/
         }
 
         private void label1_Click(object sender, EventArgs e)

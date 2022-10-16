@@ -94,8 +94,6 @@ namespace Food_Recipes
             picUnit.Visible = true;
         }
 
-      
-
         public void UnBookmaring()
         {
             string recipeID = txtId.Text;
@@ -162,9 +160,6 @@ namespace Food_Recipes
                         iTextSharp.text.Font recipeFont = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 14, iTextSharp.text.Font.NORMAL, iTextSharp.text.BaseColor.BLACK);
                         Paragraph recipe = new Paragraph(txtRecipe.Text, recipeFont);
                         doc.Add(recipe);
-
-
-
                     }
                     catch (Exception ex)
                     {

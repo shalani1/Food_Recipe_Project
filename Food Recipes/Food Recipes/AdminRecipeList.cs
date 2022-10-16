@@ -43,8 +43,6 @@ namespace Food_Recipes
 
             //make row  height 
             dgvRecipes.RowTemplate.Height = 100;
-            //dgvCategory.AllowUserToAddRows = false;
-
             dgvRecipes.DataSource = dt;
 
             //stretch image in colum
@@ -54,8 +52,6 @@ namespace Food_Recipes
 
             //auto make size of column 
             dgvRecipes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-
-
         }
 
         private void dgvRecipes_Click(object sender, EventArgs e)
@@ -63,7 +59,6 @@ namespace Food_Recipes
             //get recipe if from selected row
             try
             {
-
                 recipeId = dgvRecipes.CurrentRow.Cells[0].Value.ToString();
                 SetValueForRecipeId = recipeId;
             }
@@ -71,8 +66,6 @@ namespace Food_Recipes
             {
                 MessageBox.Show("Add first food recipe now!!!");
             }
-
-
         }
 
         private void btnAddRecipe_Click(object sender, EventArgs e)
@@ -89,7 +82,6 @@ namespace Food_Recipes
             {
                 //Pass selected value to Update Form
                 SetValueForRecipeId = recipeId;
-
                 AdminRecipeUpdateDelete update = new AdminRecipeUpdateDelete();
                 update.MdiParent = this.ParentForm;
                 update.Dock = DockStyle.Fill;
@@ -126,15 +118,6 @@ namespace Food_Recipes
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Close();
-            //AdminDashboard dash = new AdminDashboard();
-            //dash.MdiParent = this.ParentForm;
-            //dash.Dock = DockStyle.Fill;
-            //dash.Show();
-            /*AdminRecipeList list = new AdminRecipeList();
-            list.MdiParent = this.ParentForm;
-            list.Dock = DockStyle.Fill;
-            list.Show();*/
-
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)

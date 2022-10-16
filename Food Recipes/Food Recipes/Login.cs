@@ -25,14 +25,6 @@ namespace Food_Recipes
                 dash.MdiParent = this.ParentForm;
                 dash.Dock = DockStyle.Fill;
                 dash.Show();
-               /* Admin admin = new Admin();
-                admin.MdiParent = this.ParentForm;
-                admin.Dock = DockStyle.Fill;
-                admin.Show();*/
-
-            
-
-
             }
             else
             {

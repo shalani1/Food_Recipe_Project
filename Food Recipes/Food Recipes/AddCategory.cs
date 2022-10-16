@@ -31,7 +31,6 @@ namespace Food_Recipes
             if (txtCatName.Text.Trim() == "")
             {
                 MessageBox.Show("Please fill all the field!");
-                //lblmsgCatName.Text = "* Please fill category name!";
             }
             else
             {
@@ -42,14 +41,12 @@ namespace Food_Recipes
                 }
                 else
                 {
-
                     //convert selected  image to binary
                     byte[] images = null;
 
                     if (imageLocation == "")//validate empty picture box
                     {
                         MessageBox.Show("Please choose image!");
-                       // lblmsgImage.Text = "* Please choose image! ";
                     }
                     else
                     {
@@ -68,7 +65,6 @@ namespace Food_Recipes
                         con.Open();
                         da.InsertCommand.ExecuteNonQuery();
                         MessageBox.Show("Successfully inserted!!!");
-                        // FieldClear();
                         ClearField();
                         AutoRefreshGridView();
                         con.Close();
@@ -101,7 +97,6 @@ namespace Food_Recipes
 
             //make row  height 
             dgvCategory.RowTemplate.Height = 100;
-            //dgvCategory.AllowUserToAddRows = false;
 
             //load data to the table
             dgvCategory.DataSource = dt;
@@ -124,7 +119,6 @@ namespace Food_Recipes
                 searchQuery += "[RecipeCategoryName] like '%" + txtSearch.Text.Trim() + "%' and ";
             searchQuery += "1 = 1";
             (dgvCategory.DataSource as DataTable).DefaultView.RowFilter = searchQuery;
-
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
@@ -133,7 +127,6 @@ namespace Food_Recipes
             if (txtCatName.Text.Trim() == "")
             {
                 MessageBox.Show("Please fill all the field!");
-                //lblmsgCatName.Text = "* Please fill category name!";
             }
             else
             {
@@ -147,21 +140,10 @@ namespace Food_Recipes
 
                     //convert selected  image to binary
                     byte[] images = null;
-
-                    /* if (imageLocation == "")//validate empty picture box
-                     {
-                         lblmsgImage.Text = "* Please choose image! ";
-                     }
-                     else
-                     {*/
                     FileStream stream = new FileStream(imageLocation, FileMode.Open, FileAccess.Read);
 
                     BinaryReader br = new BinaryReader(stream);
                     images = br.ReadBytes((int)stream.Length);
-
-
-                    //lblmsgCatName.Visible = false;
-                    //lblmsgCatName.Visible = false;
                     da.UpdateCommand = new SqlCommand("UPDATE RecipeCategories SET RecipeCategoryName =@catname, Image = @images WHERE RecipeCategoryID = '" + txtCatId.Text + "'", con);
                     da.UpdateCommand.Parameters.Add("@catname", SqlDbType.NVarChar).Value = txtCatName.Text.Trim();
                     da.UpdateCommand.Parameters.Add("@images", SqlDbType.Image).Value = images;
@@ -169,7 +151,6 @@ namespace Food_Recipes
                     con.Open();
                     da.UpdateCommand.ExecuteNonQuery();
                     MessageBox.Show("Successfully Udated!!!");
-                    // FieldClear();
                     ClearField();
                     AutoRefreshGridView();
                     con.Close();
@@ -216,12 +197,7 @@ namespace Food_Recipes
         {
 
             AdminDashboard  dash = new AdminDashboard();
-            //dash.MdiParent = this.ParentForm;
-            // dash.Dock = DockStyle.Fill;
-            //this.
-            //dash.Show();
-           
-            //MdiLayout.showControl(dash, panelContainer);
+     
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

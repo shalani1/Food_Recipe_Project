@@ -18,7 +18,6 @@ namespace Food_Recipes
         SqlDataAdapter da = new SqlDataAdapter();
 
         string imagelocation;
-        //string categoryName;
         int catId;
 
         public AdminAddRecipe()
@@ -26,7 +25,6 @@ namespace Food_Recipes
             InitializeComponent();
             txtRecipeID.Visible = false;
             lblRecipeId.Visible = false;
-            //show category names in the cmb box
             showCategories();
         }
 
@@ -43,7 +41,6 @@ namespace Food_Recipes
 
                 if (imagelocation == "")//validate empty picture box
                 {
-                    //lblmsgImage.Text = "* Please choose image! ";
                     MessageBox.Show("Please attach image");
                 }
                 else
@@ -52,10 +49,7 @@ namespace Food_Recipes
 
                     BinaryReader br = new BinaryReader(stream);
                     images = br.ReadBytes((int)stream.Length);
-
-                    //SqlDataAdapter da = new SqlDataAdapter();
                     da.InsertCommand = new SqlCommand("INSERT INTO Recipes(RecipeName, Recipe, Duration, Image, Descriptions, Servings, Facts, RecipeCategoryID, Bookmarks) Values (@RecipeName, @Recipe, @Duration, @Image, @Descriptions, @Servings, @Facts, @RecipeCategoryID, 0)", cs);
-                    //da.InsertCommand.Parameters.Add("@RecipeID", SqlDbType.Int).Value = txtRecipeID.Text.Trim();
                     da.InsertCommand.Parameters.Add("@RecipeName", SqlDbType.NVarChar).Value = txtRecipeName.Text.Trim();
                     da.InsertCommand.Parameters.Add("@Recipe", SqlDbType.NVarChar).Value = richtxtRecipe.Text.Trim();
                     da.InsertCommand.Parameters.Add("@Duration", SqlDbType.NVarChar).Value = txtDuration.Text.Trim();
@@ -68,7 +62,6 @@ namespace Food_Recipes
                     cs.Open();
                     try
                     {
-
                         da.InsertCommand.ExecuteNonQuery();
                         MessageBox.Show("Insert Successfully!");
                         ClearField();
@@ -78,7 +71,6 @@ namespace Food_Recipes
                         MessageBox.Show(".jpg, .jped, png are the allowed Image type!");
                     } 
                         cs.Close();
-
                 }
             }
         }
@@ -102,7 +94,6 @@ namespace Food_Recipes
             //Open Word File in the text box
             using (OpenFileDialog ofd = new OpenFileDialog() { ValidateNames = true, Multiselect = false, Filter = "Choose Files (*doc)|*docx" })
             {
-                //Stream myStream;
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
                     object readOnly = false;
@@ -121,23 +112,7 @@ namespace Food_Recipes
                     richtxtRecipe.Rtf = dataObject.GetData(DataFormats.Rtf).ToString();
                     application.Quit(ref missing, ref missing, ref missing);
                 }
-            }
-
-            /*----------
-            Stream myStream;
-            OpenFileDialog openFiles = new OpenFileDialog();
-            openFiles.Filter = "Text Files (*TEXT)|*txt";
-
-            if (openFiles.ShowDialog() == System.Windows.Forms.DialogResult.OK)
-            {
-                if ((myStream = openFiles.OpenFile()) != null)
-                {
-                    string fileName = openFiles.FileName; //Copping the file path to string
-                    string fileText = File.ReadAllText(fileName);
-                    richtxtRecipe.Text = fileText;
-                }
-            }
-            ------------*/
+            }  
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -167,17 +142,11 @@ namespace Food_Recipes
             cs.Close();
 
             cmbCategory.DropDownStyle = ComboBoxStyle.DropDownList;
-            //cmbCategory.SelectedIndex = 0;
         }
 
         //Get selected category id
         private void GetCategoryId()
         {
-            // if(cmbCategory.SelectedIndex == 0)
-            // {
-            //lblCatCheck.text = "Please select category";
-            // MessageBox.Show("Please select category!", "Warning");
-            // }
             string categoryName = cmbCategory.SelectedItem.ToString();
 
             da.SelectCommand = new SqlCommand("SELECT RecipeCategoryID FROM RecipeCategories WHERE RecipeCategoryName = @categoryname", cs);
